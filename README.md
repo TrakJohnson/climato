@@ -1,9 +1,9 @@
 # Climato Project
 
-  - Schémas réalisés avec [QUCS](http://qucs.sourceforge.net/)
+  - Schémas réalisés avec MATLAB Simscape Electronics
   - Code pour arduino
   
 TODO:
-  - [ ] Get a working schematic
+  - [X] Get a working schematic
   - [ ] Get a working real circuit
   - [ ] Get some working code
