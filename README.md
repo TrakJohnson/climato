@@ -5,5 +5,5 @@
   
 TODO:
   - [X] Get a working schematic
-  - [ ] Get a working real circuit
-  - [ ] Get some working code
+  - [X] Get a working real circuit
+  - [ ] Get some measurement code
